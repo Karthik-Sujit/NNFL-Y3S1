@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Assignment-2/input.mat
