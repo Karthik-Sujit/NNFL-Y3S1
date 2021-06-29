@@ -125,3 +125,7 @@ dmypy.json
 .pyre/
 Assignment-2/input.mat
 Assignment-2/Datasets/input.mat
+
+
+# vscode workspace settings
+.vscode/
